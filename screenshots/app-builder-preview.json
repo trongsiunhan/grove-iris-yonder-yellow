@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lồng",
+      "hasCanvas": false,
+      "bodyTextLen": 1101,
+      "bodyTextHash": "968aa35f184e4d09dab090f6dc605e62c90018f22c3d1dd8e76cf6efaa42587d",
+      "bodyTextPrefix": "Lồng STUDIO Hàng đợi Bộ phim Giọng nói Cài đặt Chẩn đoán Tìm ⌘K ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lồng",
+      "hasCanvas": false,
+      "bodyTextLen": 973,
+      "bodyTextHash": "b5e56ea6988ec9b8f0839c49ee04bfb05549fc9b53a14ffd05ef53409b791d01",
+      "bodyTextPrefix": "Lồng Hàng đợi Thả video, theo dõi nhiều tập cùng lúc. Chọn file ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

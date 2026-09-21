@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lồng",
+      "hasCanvas": false,
+      "bodyTextLen": 947,
+      "bodyTextHash": "cee6e14ebe1a6a4d93c2ed21830c0d1b91296d52ddf5931ed85000966ac2f357",
+      "bodyTextPrefix": "Lồng STUDIO Hàng đợi Bộ phim Giọng nói Cài đặt Chẩn đoán Tìm ⌘K ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lồng",
+      "hasCanvas": false,
+      "bodyTextLen": 819,
+      "bodyTextHash": "1696e6d30cb0b2412a757bce907e0c727b17ce8d01c63dd0894a3db816be2dd8",
+      "bodyTextPrefix": "Lồng Hàng đợi Thả video, theo dõi nhiều tập cùng lúc. Chọn file ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (1101 -> 947 chars, hash mismatch)",
+    "mobile: body text changed (973 -> 819 chars, hash mismatch)"
+  ]
+}
